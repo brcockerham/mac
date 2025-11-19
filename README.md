@@ -15,8 +15,7 @@ Follow these steps to reset Outlook on your Mac safely.
 ## Step 2: Copy and Run the Reset Script
 Copy the following command exactly:
 
-`bash
-curl -fsSL https://raw.githubusercontent.com/brcockerham/mac/refs/heads/main/reset_outlook.sh -o ~/Desktop/outlook-reset-backup.sh && chmod +x ~/Desktop/outlook-reset-backup.sh && ~/Desktop/outlook-reset-backup.sh
+`curl -fsSL https://raw.githubusercontent.com/brcockerham/mac/refs/heads/main/reset_outlook.sh -o ~/Desktop/outlook-reset-backup.sh && chmod +x ~/Desktop/outlook-reset-backup.sh && ~/Desktop/outlook-reset-backup.sh
 `
 
 1. **Open Terminal** on your computer.  
