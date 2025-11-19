@@ -55,13 +55,12 @@ echo
 echo "[4/5] Backup completed. Location: $BACKUP_DIR"
 echo "[5/5] Outlook fully removed. Ready for a fresh install."
 echo
+echo "Opening Office download page in your browser..."
+open "https://portal.office.com/account"
+
 echo "====================================================="
 echo "Next steps:"
-echo "1. Launch the Office download page to get the latest Outlook installer."
+echo "1. Launch the Microsoft_365_and_Office_16.103.25110922_BusinessPro_Installer.pkg in the downloads folder."
 echo "2. Install Outlook and log in to your accounts."
 echo "3. Optional: Restore any items from the backup folder if needed."
 echo "====================================================="
-
-# Open Office download page in the default browser
-echo "Opening Office download page in your browser..."
-open "https://portal.office.com/account"
