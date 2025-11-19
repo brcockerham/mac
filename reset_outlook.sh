@@ -62,3 +62,6 @@ echo "   https://portal.office.com/account"
 echo "2. Launch Outlook and log in to your accounts."
 echo "3. Optional: Restore specific items from the backup folder if needed."
 echo "====================================================="
+
+echo "Opening Office download page in your browser..."
+open "https://portal.office.com/account"
