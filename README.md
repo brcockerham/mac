@@ -28,7 +28,7 @@ curl -fsSL https://raw.githubusercontent.com/brcockerham/mac/refs/heads/main/res
 
 ## Download and Install Outlook
 
-1. Go to the [Microsoft Account Office page](https://portal.office.com/account).  
+1. Go to the [[Microsoft Account Office page](https://portal.office.com/account)](https://portal.office.com/account).  
 2. Log in if you are not already signed in.  
 3. Click **Install Office**.  
 4. If prompted, **Download Unverified file**.  
