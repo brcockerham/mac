@@ -57,11 +57,11 @@ echo "[5/5] Outlook fully removed. Ready for a fresh install."
 echo
 echo "====================================================="
 echo "Next steps:"
-echo "1. Download and run the latest Outlook installer here:"
-echo "   https://portal.office.com/account"
-echo "2. Launch Outlook and log in to your accounts."
-echo "3. Optional: Restore specific items from the backup folder if needed."
+echo "1. Launch the Office download page to get the latest Outlook installer."
+echo "2. Install Outlook and log in to your accounts."
+echo "3. Optional: Restore any items from the backup folder if needed."
 echo "====================================================="
 
+# Open Office download page in the default browser
 echo "Opening Office download page in your browser..."
 open "https://portal.office.com/account"
